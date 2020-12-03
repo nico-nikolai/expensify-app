@@ -9,7 +9,7 @@ export const sortByDate = () => ({
     type: 'SORT_BY_DATE'
 })
 
-// SORE_BY_AMOUNT
+// SORT_BY_AMOUNT
 export const sortByAmount = () => ({
     type: 'SORT_BY_AMOUNT'
 })
