@@ -1,4 +1,8 @@
 # expensify-app
 
 # dependencies
-/node_modules
+node_modules/
+public/bundle.js
+public/bundle.js.map
+public/styles.css
+public/styles.css.map
